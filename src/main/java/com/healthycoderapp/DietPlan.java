@@ -1,5 +1,9 @@
 package com.healthycoderapp;
 
+/*from Junit test course: Practical Java Unit Testing with JUnit 5
+ on udemy
+* By Adrian Wiech
+* */
 public class DietPlan {
 	private int calories;
 	private int protein;

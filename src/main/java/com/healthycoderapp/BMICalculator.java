@@ -3,6 +3,10 @@ package com.healthycoderapp;
 import java.util.Comparator;
 import java.util.List;
 
+/*from Junit test course: Practical Java Unit Testing with JUnit 5
+ on udemy
+* By Adrian Wiech
+* */
 public class BMICalculator {
 	
 	private static final double BMI_THRESHOLD = 25.0;
